@@ -1,0 +1,613 @@
+AR
+
+ES
+
+E
+CL
+
+AM
+
+J
+
+HÁBITOS
+ATÓMICOS
+
+Traducción de Gabriela Moya
+
+T_Habitos atomicos.indd 3
+
+11/03/19 12:31
+
+Diseño de portada: Sergi Rucabado
+Título original: Atomic Habits
+© 2018, James Clear
+Traducido por: Gabriela Moya
+Esta edición es publicada por acuerdo con Avery, un sello de Penguin
+Publishing Group, una división de Penguin Random House LLC.
+Derechos reservados
+© 2019, Ediciones Culturales Paidós, S.A. de C.V.
+Bajo el sello editorial PAIDÓS M.R.
+Avenida Presidente Masarik núm. 111, Piso 2
+Colonia Polanco V Sección
+Delegación Miguel Hidalgo
+C.P. 11560, Ciudad de México
+www.planetadelibros.com.mx
+www.paidos.com.mx
+Primera edición en formato epub: abril de 2019
+ISBN: 978-607-747-672-6
+Primera edición impresa en México: abril de 2019
+ISBN: 978-607-747-671-9
+No se permite la reproducción total o parcial de este libro ni su incorporación a un
+sistema informático, ni su transmisión en cualquier forma o por cualquier medio,
+sea éste electrónico, mecánico, por fotocopia, por grabación u otros métodos, sin
+el permiso previo y por escrito de los titulares del copyright.
+La infracción de los derechos mencionados puede ser constitutiva de delito contra
+la propiedad intelectual (Arts. 229 y siguientes de la Ley Federal de Derechos de
+Autor y Arts. 424 y siguientes del Código Penal).
+Si necesita fotocopiar o escanear algún fragmento de esta obra diríjase al CeMPro
+(Centro Mexicano de Protección y Fomento de los Derechos de Autor, http://www.
+cempro.org.mx).
+Impreso en los talleres de Litográfica Ingramex, S.A. de C.V.
+Centeno núm. 162, colonia Granjas Esmeralda, Ciudad de México
+Impreso y hecho en México - Printed and made in Mexico
+
+T_Habitos atomicos.indd 4
+
+11/03/19 12:31
+
+atómico
+1. una cantidad extremadamente pequeña de una cosa,
+la unidad más pequeña e irreductible que forma parte
+de un sistema mayor.
+2. la fuente de una inmensa energía o poder.
+hábito
+1. una rutina o práctica que se realiza de manera regular;
+una respuesta automática a una situación específica.
+
+Hábitos Atómicos 2.indd 5
+
+11/03/19 11:13 a.m.
+
+CONTENIDO
+Introducción. Mi historia.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+9
+
+PRINCIPIOS FUNDAMENTALES
+POR QUÉ LOS PEQUEÑOS CAMBIOS
+GENERAN UNA GRAN DIFERENCIA
+1. El sorprendente poder de los hábitos atómicos.  .  .
+2.		 La manera en que tus hábitos moldean
+		 tu identidad (y viceversa) .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+3.		 Cómo construir mejores hábitos en cuatro
+		 sencillos pasos .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+23
+45
+61
+
+PRIMERA LEY
+HACERLO OBVIO
+4. El hombre que no se veía bien.  .  .  .  .  .  .  .  .  .  .  .  .  .  77
+5. La mejor manera de comenzar un nuevo hábito.  .  .  89
+6. La motivación está sobrevalorada; el ambiente
+			 a menudo es más importante.  .  .  .  .  .  .  .  .  .  .  .  .  105
+7. El secreto del autocontrol .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 119
+SEGUNDA LEY
+HACERLO ATRACTIVO
+8. Cómo lograr que un hábito sea irresistible .  .  .  .  .  .  129
+9. El papel de la familia y los amigos
+			 en la formación de hábitos.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  146
+10. Cómo localizar y arreglar las causas
+			 de tus malos hábitos .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 160
+7
+
+Hábitos Atómicos 2.indd 7
+
+11/03/19 11:13 a.m.
+
+TERCERA LEY
+HACERLO SENCILLO
+11. Avanza despacio, pero no des marcha atrás.  .  .  .  .  . 
+12. La ley del menor esfuerzo .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+13. Cómo dejar de postergar usando la regla
+			 de los dos minutos .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+14. Cómo hacer inevitables los buenos hábitos
+			 e imposibles los malos hábitos.  .  .  .  .  .  .  .  .  .  .  .
+
+175
+186
+199
+210
+
+CUARTA LEY
+HACERLO SATISFACTORIO
+15. La regla cardinal del cambio de conducta.  .  .  .  .  .  .  223
+16. Cómo mantener los buenos hábitos todos los días .  240
+17. Cómo un socio corresponsable puede
+			 cambiarlo todo.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  254
+TÁCTICAS AVANZADAS
+CÓMO PASAR DE SER SOLAMENTE BUENO
+A SER VERDADERAMENTE GRANDIOSO
+18. La verdad acerca del talento
+			 (Cuándo los genes importan y cuándo no) .  .  .  . 265
+19. La regla de Ricitos de Oro: Cómo mantenerte
+			 motivado en la vida y el trabajo.  .  .  .  .  .  .  .  .  .  .  .  283
+20. El inconveniente de crear buenos hábitos.  .  .  .  .  .  .  294
+Conclusión. El secreto para alcanzar resultados
+		 que duren .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+Apéndice.
+		 ¿Qué leer a continuación?.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+		 Pequeñas lecciones de las cuatro leyes.  .  .  .  .  .  .  .  . 
+		 Cómo aplicar estas ideas a los negocios.  .  .  .  .  .  .  . 
+		 Cómo aplicar estas ideas a la paternidad .  .  .  .  .  .  .
+Agradecimientos .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+Hábitos Atómicos 2.indd 8
+
+309
+313
+314
+321
+322
+324
+
+11/03/19 11:13 a.m.
+
+INTRODUCCIÓN
+MI HISTORIA
+El último día de mi primer año de bachillerato, un bat de beisbol
+me golpeó en pleno rostro. Uno de mis compañeros intentó
+hacer un movimiento largo para pegarle a la pelota, pero el bat
+se le resbaló y voló hacia mí antes de golpearme directamente
+entre los ojos. No conservo el recuerdo del momento justo
+del impacto.
+El bat me aplastó la cara de tal manera que la nariz se me
+convirtió en una especie de letra u distorsionada. El golpe
+literalmente provocó que el tejido blando de mi cerebro se
+incrustara en la pared posterior del cráneo. De inmediato mi
+cerebro comenzó a inflamarse como una ola expansiva que recorrió el interior de mi cabeza. Una fracción de segundo bastó
+para que yo terminara con la nariz rota, con fracturas múltiples
+en el cráneo y con las cuencas de los ojos hechas añicos.
+Cuando abrí los ojos, pude ver a la gente a mi alrededor
+mirándome fijamente y corriendo a ayudarme. Dirigí la mirada
+hacia abajo y me di cuenta de las manchas rojas en mi ropa.
+9
+
+Hábitos Atómicos 2.indd 9
+
+11/03/19 11:13 a.m.
+
+10
+
+HÁBITOS ATÓMICOS
+
+Uno de mis compañeros se quitó la playera y me la pasó. La usé
+para bloquear el chorro de sangre que me escurría de la nariz
+fracturada. Conmocionado y confuso, no era capaz de darme
+cuenta de la seriedad de mi accidente.
+El maestro me rodeó los hombros con el brazo y comenzamos a caminar lentamente por el largo camino que conducía
+a la enfermería escolar. Cruzamos el campo de beisbol, bajamos la colina y volvimos a entrar a la escuela. Había varias
+manos tocando mis costados y sosteniéndome. Nadie parecía
+darse cuenta de que cada minuto era importante.
+Cuando llegamos a la enfermería, la enfermera me hizo una
+serie de preguntas.
+—¿En qué año estamos?
+—En 1998 —respondí. En realidad se trataba del año 2002.
+—¿Quién es el presidente de los Estados Unidos?
+—Bill Clinton —dije. La respuesta correcta era George
+W. Bush.
+—¿Cómo se llama tu mamá?
+—Eh, eh —dudé. Pasaron diez segundos.
+—Patti —dije tranquilamente, sin darme cuenta de que me
+había tomado diez segundos recordar el nombre de mi madre.
+Esa es la última pregunta que recuerdo. Mi cuerpo era incapaz de soportar la rápida inflamación de mi cerebro y perdí
+la conciencia antes de que la ambulancia llegara. Minutos después, la ambulancia me sacaba de la escuela en dirección al
+hospital local.
+Poco después de llegar al hospital, mi cuerpo comenzó a
+colapsar. Estaba luchando por realizar las funciones más básicas
+como tragar y respirar. Sufrí la primera convulsión de ese día.
+Después dejé de respirar por completo. Mientras los doctores
+se apuraban a suministrarme oxígeno, tomaron la decisión de
+llevarme a otro hospital que contara con el equipo necesario
+para controlar una situación tan delicada. De inmediato solicitaron un helicóptero que me trasladara a un hospital mejor
+equipado en Cincinnati.
+
+Hábitos Atómicos 2.indd 10
+
+11/03/19 11:13 a.m.
+
+INTRODUCCIÓN
+
+11
+
+Una camilla me llevó rodando desde la sala de emergencias
+hasta el helipuerto que estaba cruzando la calle. La camilla se
+sacudía conforme avanzaba en el accidentado pavimento de
+la calle mientras una enfermera bombeaba oxígeno de forma
+manual hasta mis pulmones. Mi madre, que había llegado al
+hospital un poco antes, se subió al helicóptero conmigo y durante todo el trayecto me sostuvo la mano, aunque yo seguía
+inconsciente y era incapaz de respirar por mí mismo.
+Mientras mi madre viajaba conmigo en el helicóptero, mi
+padre fue a casa a ver cómo estaban mi hermana y mi hermano
+y a comunicarles las malas noticias. Tuvo que esforzarse para
+contener las lágrimas cuando le explicó a mi hermana que no
+podría asistir a su graduación de bachillerato que sería esa misma noche. Después de encargar a mis hermanos con amigos
+y familiares, manejó hasta Cincinnati para encontrarse con mi
+madre en el hospital.
+Cuando mi mamá y yo aterrizamos en el techo del hospital,
+un equipo de casi veinte doctores y enfermeros ya nos esperaba
+en el helipuerto para llevarme a la unidad de traumatología.
+Para entonces la inflamación de mi cerebro era tan severa que
+estaba sufriendo repetidas convulsiones postraumáticas. Cuanto
+antes debían operarme los huesos rotos de la cabeza, pero no
+estaba en condiciones de soportar una cirugía. Después de otra
+convulsión más, la tercera del día, me indujeron un estado de
+coma y me colocaron un respirador artificial.
+El hospital donde estábamos no le resultaba extraño a
+mis padres. Diez años antes habían entrado al mismo edificio
+después de que mi hermana fue diagnosticada con leucemia
+a los 3 años. Por entonces yo tenía 5 años y mi hermano tan
+solo 6 meses. Después de dos años y medio de tratamientos
+de quimioterapia, punciones espinales y biopsias de médula
+espinal, mi hermana menor por fin salió del hospital contenta,
+sana y sin cáncer. Ahora, después de diez años de vida normal,
+mis padres se encontraban de nuevo en el mismo lugar pero
+con otro de sus hijos.
+
+Hábitos Atómicos 2.indd 11
+
+11/03/19 11:13 a.m.
+
+12
+
+HÁBITOS ATÓMICOS
+
+Cuando entré en coma, el hospital envió a un sacerdote y
+a una trabajadora social para confortar a mis padres. Se trataba
+del mismo sacerdote que habían conocido una década antes, el
+día en que se enteraron de que mi hermana tenía cáncer.
+Conforme se fue haciendo de noche, una serie de aparatos
+se encargaron de mantenerme con vida. Mis padres pasaron la
+noche en una colchoneta del hospital con gran inquietud: por
+momentos caían rendidos de cansancio para enseguida despertar
+llenos de preocupación. Tiempo después, mi madre me contó
+que esa había sido una de las peores noches de su vida.
+
+MI RECUPERACIÓN
+Afortunadamente a la mañana siguiente mi respiración se había
+normalizado a tal punto que los doctores se sintieron confiados
+de sacarme del coma inducido. Cuando por fin recuperé la
+conciencia, descubrí que había perdido el sentido del olfato.
+Para hacer una prueba, una enfermera me pidió que me sonara
+la nariz y que a continuación olfateara un jugo de manzana. Mi
+sentido del olfato regresó, pero el hecho de sonarme provocó
+que el aire pasara a través de las fracturas que tenía en la cuenca
+del ojo, lo cual empujó el globo ocular izquierdo hacia fuera.
+El globo quedó salido de la cuenca, sostenido apenas por el
+párpado y el nervio óptico que lo unía a mi cerebro.
+El oftalmólogo afirmó que mi ojo gradualmente volvería a su
+sitio conforme el aire saliera de la cuenca, pero le era imposible
+determinar cuánto tiempo le tomaría recuperar su posición
+normal. Me habían programado para una cirugía una semana
+después para darme un poco más de tiempo para recuperarme.
+Todavía tenía el aspecto de alguien que hubiera estado en el
+lado equivocado de un cuadrilátero de boxeo, pero de cualquier
+manera me dieron autorización para salir del hospital. Regresé
+
+Hábitos Atómicos 2.indd 12
+
+11/03/19 11:13 a.m.
+
+INTRODUCCIÓN
+
+|
+
+13
+
+a casa con la nariz rota, media docena de fracturas faciales y el
+ojo izquierdo desprendido de su órbita.
+Los meses siguientes fueron muy duros. Tenía la impresión de que todo en mi vida había sido puesto en pausa. Tuve
+visión doble por semanas y, literalmente, no podía ver en una
+sola dirección. A mi ojo le tomó más de un mes regresar a su
+posición original. Entre las convulsiones y los problemas con la
+vista, pasaron ocho meses antes de que pudiera volver a manejar un auto. En las sesiones de terapia física tuve que practicar
+patrones motores básicos como caminar en línea recta. Estaba
+determinado a no permitir que mis heridas me doblegaran, pero
+debo admitir que, en más de una ocasión, me sentí deprimido
+y abrumado.
+Cuando regresé al campo de beisbol justo un año después,
+fue muy doloroso darme cuenta de lo mucho que me faltaba
+por conseguir. El beisbol siempre había formado parte de mi
+vida. Mi padre había jugado para las ligas menores de los Cardenales de San Luis y yo soñaba con jugar también en las ligas
+profesionales. Después de haber pasado meses en rehabilitación,
+lo que más deseaba era volver a jugar beisbol.
+Pero mi regreso al campo no se dio de buena manera. Cuando
+comenzó la temporada, fui el único jugador de segundo grado
+que no pasó a formar parte del equipo principal de la escuela.
+Por el contrario, fui relegado a formar parte del equipo de
+primer grado. Yo había jugado beisbol desde que tenía 4 años,
+y para alguien que había dedicado tanto tiempo y esfuerzo a
+un deporte, haber sido rechazado del equipo principal había
+sido muy humillante. Recuerdo con nitidez el día en que me
+comunicaron la noticia. Me senté en mi auto y lloré mientras
+desesperadamente recorría con la mano el cuadrante de la radio
+para encontrar una melodía que me hiciera sentir mejor.
+Después de un año de inseguridades, cuando ya había
+llegado al tercer grado de bachillerato, logré ser admitido en el
+equipo principal de la escuela. Sin embargo, casi nunca pude
+
+Hábitos Atómicos 2.indd 13
+
+11/03/19 11:13 a.m.
+
+14
+
+HÁBITOS ATÓMICOS
+
+entrar al campo de juego. Jugué 11 entradas en la temporada,
+lo cual apenas equivale a un juego completo.
+A pesar de mi deslucida participación en la temporada escolar,
+seguí creyendo que podía lograr convertirme en un gran jugador.
+Y tuve la certeza de que si las cosas iban a mejorar, yo sería el
+único responsable de lograrlo. El momento decisivo llegó dos
+años después de mi accidente, cuando entré a la Universidad
+Denison. Se trataba de un nuevo comienzo y la universidad era
+el lugar donde descubriría el poder de los pequeños hábitos.
+
+CÓMO APRENDÍ EN QUÉ CONSISTEN LOS HÁBITOS
+Inscribirme a Denison fue una de las mejores decisiones de mi
+vida. Me gané un lugar en el equipo de beisbol, y aunque estaba
+en el último lugar de la lista porque era un novato, realmente
+estaba emocionado por haberlo conseguido. A pesar del caos
+que habían sido mis años de bachillerato, había logrado convertirme en atleta universitario.
+Aunque ya había sido admitido en el equipo, los entrenamientos no iban a comenzar pronto, así que decidí dedicar el tiempo
+a ordenar mi vida. Mientras mis compañeros se desvelaban
+jugando videojuegos, yo desarrollé buenos hábitos de sueño y
+todas las noches me iba a dormir temprano. En el desordenado
+mundo del dormitorio universitario, yo me propuse mantener
+mi habitación limpia y ordenada. Estas mejoras no eran muy
+significativas, pero me hacían sentir que tenía control sobre mi
+vida. Comencé a sentirme seguro nuevamente y a creer en
+mí. Esta sensación de seguridad que iba en aumento, se reflejó
+en mi desempeño escolar. Conforme mejoré mis hábitos de
+estudio, logré un promedio de 10 durante todo el primer año.
+Un hábito es una rutina o conducta que se practica con
+regularidad y, en muchos casos, de manera automática. A
+medida que pasaban los semestres, acumulé pequeños hábi-
+
+Hábitos Atómicos 2.indd 14
+
+11/03/19 11:13 a.m.
+
+INTRODUCCIÓN
+
+15
+
+tos que repetía de manera consistente y que, eventualmente,
+me llevaron a conseguir resultados que ni siquiera hubiera
+podido imaginar cuando entré a la universidad. Por ejemplo,
+por primera vez en mi vida, adquirí el hábito de levantar pesas
+varias veces a la semana. Durante los siguientes años, con mi
+estatura de 1.95 metros, logré pasar de 78 kilos a 90 kilos de
+musculatura sin grasa.
+Cuando comencé el segundo año en Denison y se inauguró
+la temporada de beisbol, fui el principal pícher del equipo de
+lanzadores. Durante mi tercer año, el equipo votó por mí para
+que fuera su capitán, y al final de la temporada, fui seleccionado
+para ser parte del equipo de toda la conferencia universitaria. Sin
+embargo, no fue sino hasta mi último año cuando mis hábitos
+de sueño, de estudio y de levantamiento de pesas realmente
+rindieron fruto.
+Seis años después de haber sido golpeado en el rostro por
+un bat, llevado en helicóptero a un hospital e inducido a un estado de coma, fui seleccionado como el mejor atleta masculino
+de la Universidad de Denison. También fui nominado como
+parte del equipo Academic All-America del canal de televisión
+ESPN, un honor que está reservado únicamente a 33 jugadores de todo el país. Para el momento en que me gradué, había
+obtenido ocho récords universitarios en diferentes categorías y
+gané el más importante galardón académico de la universidad,
+la Medalla del Presidente.
+Espero que me disculpen si toda esta historia suena un
+poco arrogante. Para ser sincero, no hay nada de legendario
+en mi carrera como atleta y realmente nunca jugué de manera
+profesional. Sin embargo, si vuelvo la mirada hacia aquellos
+años, me doy cuenta de que logré algo que raramente se consigue: desarrollé mi potencial. Y estoy convencido de que los
+conceptos que conforman este libro también pueden ayudarte
+a desarrollar tu propio potencial.
+Todos enfrentamos retos a lo largo de nuestra vida. Este
+accidente fue uno de mis retos y la experiencia me enseñó una
+
+Hábitos Atómicos 2.indd 15
+
+11/03/19 11:13 a.m.
+
+16
+
+HÁBITOS ATÓMICOS
+
+lección fundamental: los hábitos que en un principio pueden
+parecer pequeños y poco significativos, se transformarán en
+resultados extraordinarios si tienes la voluntad de mantenerlos
+durante varios años. Todos tenemos que lidiar con contratiempos
+y retrocesos pero, a la larga, la calidad de nuestra vida depende
+de la calidad de nuestros hábitos.1 Si mantienes los mismos
+hábitos que tienes ahora, tendrás resultados equivalentes. Si
+mejoras tus hábitos, cualquier cosa es posible.
+Probablemente existan personas capaces de alcanzar grandes logros de la noche a la mañana. Yo no conozco ninguna,
+y yo, ciertamente, no soy una de ellas. No existió un único
+momento clave en mi camino desde el coma inducido hasta
+el equipo del canal ESPN, hubo muchos momentos clave, una
+suma de ellos. Se trató de una evolución gradual, una larga serie
+de pequeños triunfos y modestos avances. La única manera de
+progresar —la única opción que tuve— consistió en comenzar
+por dar pasos pequeños. Esta es la misma estrategia que utilicé
+cuando comencé mi propio negocio y cuando inicié la escritura
+de este libro.
+
+CÓMO Y POR QUÉ ESCRIBÍ ESTE LIBRO
+En noviembre de 2012, comencé a publicar artículos en james
+clear.com. Por años había conservado mis notas acerca de mis
+experimentos personales con los hábitos y sentía que estaba
+listo para compartir algunos en público. Empecé por publicar
+un artículo nuevo cada lunes y jueves. En pocos meses este
+simple hábito de escritura me llevó a reunir mi primer millar
+de suscriptores por correo electrónico. Para 2013 ese número
+había crecido a 30 000 personas.
+En 2014 mi lista de correo electrónico creció exponencialmente hasta alcanzar los 100 000 suscriptores, lo cual hizo que
+mi sitio web se volviera uno de los boletines informativos de
+
+Hábitos Atómicos 2.indd 16
+
+11/03/19 11:13 a.m.
+
+INTRODUCCIÓN
+
+17
+
+más rápido crecimiento en internet. Me sentí como un impostor cuando comencé a escribir dos años antes, pero al parecer,
+ahora me había convertido en un especialista en hábitos, una
+etiqueta que me emocionaba y al mismo tiempo me hacía
+sentir incómodo. Nunca me consideré especialista en el tema,
+por el contrario, me parecía que era alguien que estaba apenas
+experimentando y aprendiendo junto con mis lectores.
+En 2015 alcancé los 200 000 suscriptores y firmé un contrato con Penguin Random House para empezar a escribir la
+versión en inglés del libro que estás leyendo ahora. Conforme
+el número de mis lectores creció, también lo hicieron mis oportunidades de negocios. Cada vez recibía más invitaciones a dar
+conferencias en importantes compañías acerca de la ciencia
+para desarrollar buenos hábitos, cambiar conductas y mantener
+una mejora continua. De pronto me encontré dando discursos
+de apertura en importantes conferencias tanto en los Estados
+Unidos de América como en Europa.
+En 2016 mis artículos comenzaron a aparecer regularmente en publicaciones de gran prestigio como Time, Entrepreneur
+y Forbes. Increíblemente mis textos fueron leídos por más de
+ocho millones de personas durante ese año. Entrenadores
+de equipos pertenecientes a la NFL [Liga Nacional de Futbol],
+NBA [Asociación Nacional de Basquetbol] y MLB [Liga Mayor
+de Beisbol] empezaron a leer mi trabajo y a compartirlo con
+sus jugadores.
+A principios de 2017, lancé la Habits Academy, la principal
+plataforma de entrenamiento para organizaciones e individuos interesados en desarrollar mejores hábitos para su vida y
+el trabajo.* Compañías pertenecientes al grupo Fortune 500
+y otras empresas emergentes empezaron a inscribir a sus ejecutivos y a sus equipos de capacitación. En total más de 10 000
+líderes, gerentes, entrenadores y maestros se han graduado en
+* Las personas interesadas en Habits Academy pueden visitar habitsacademy.
+com
+
+Hábitos Atómicos 2.indd 17
+
+11/03/19 11:13 a.m.
+
+18
+
+|
+
+HÁBITOS ATÓMICOS
+
+la Habits Academy. Trabajar con todas esas personas me ha
+enseñado mucho acerca de lo que hace que los hábitos se puedan
+aplicar en el mundo real.
+Mientras daba los últimos toques a este libro durante 2018,
+jamesclear.com estaba recibiendo millones de visitantes al
+mes y casi 500 000 personas se estaban suscribiendo al correo
+electrónico de mi boletín informativo cada semana. Tal cantidad de suscriptores está tan lejos de las expectativas que tenía
+cuando inicié el sitio, que ni siquiera estoy seguro de lo que
+debo pensar acerca de él.
+
+CÓMO TE PUEDE BENEFICIAR ESTE LIBRO
+El empresario e inversionista Naval Ravikant dijo una vez:
+«Para escribir un gran libro, primero tienes que convertirte
+en ese libro».2 Yo tuve que vivir las ideas que se mencionan en
+esta obra para aprenderlas. Tuve que confiar en pequeños
+hábitos para lograr mi recuperación después de mi accidente,
+para volverme más fuerte en el gimnasio, para lograr un desempeño de alto nivel en el campo de juego, para convertirme en
+escritor, para construir un negocio exitoso, y, sobre todo, para
+convertirme en un adulto responsable. Los pequeños hábitos
+que cultivé me ayudaron a desarrollar todo mi potencial. Y
+dado que elegiste este libro, asumo que tú también quieres
+desarrollar todo tu potencial.
+En las siguientes páginas, voy a compartir contigo un plan
+paso a paso para desarrollar mejores hábitos, no por unos
+cuantos días sino para siempre. A pesar de que todo lo que
+aparece aquí tiene un sustento científico, no se trata de un
+trabajo académico de investigación. Este libro es en realidad
+un manual de instrucciones. Conforme explico la ciencia de
+cómo desarrollar y cambiar tus hábitos de una manera fácil
+
+Hábitos Atómicos 2.indd 18
+
+11/03/19 11:13 a.m.
+
+INTRODUCCIÓN
+
+|
+
+19
+
+de entender y de aplicar, vas a encontrar principalmente sabiduría y consejos prácticos.
+Las disciplinas a las cuales recurro —biología, neurociencia, filosofía, psicología y otras— han existido durante siglos.
+Lo que yo ofrezco es una síntesis de las mejores ideas que
+personajes brillantes descubrieron hace tiempo, junto con los
+más recientes y convincentes descubrimientos de la ciencia
+moderna. Mi contribución consiste, espero, en encontrar las
+ideas que son más significativas y en interrelacionarlas de tal
+manera que sean altamente funcionales. Todos los aciertos de
+esta obra deben atribuirse al genio de los muchos expertos que
+me precedieron. Los errores son mi responsabilidad.
+La columna vertebral de este libro es mi método de cuatro
+pasos para desarrollar hábitos —señal, anhelo, respuesta y
+recompensa—, así como las Cuatro Leyes para Cambiar la
+Conducta que se desprenden de ellos. Los lectores que cuenten
+con conocimientos de psicología, tal vez encuentren similitudes entre estos términos y los que maneja la teoría del condicionamiento operante, con la cual B.F. Skinner proponía
+en 1930 el ciclo «estímulo, respuesta y recompensa»3 y que
+recientemente se ha popularizado como «señal, rutina y recompensa»4 en el libro El poder de los hábitos de Charles Duhigg.
+Los científicos conductistas como Skinner se dieron cuenta
+de que si se ofrece la recompensa o el castigo adecuado a una
+persona, se puede lograr que dicha persona actúe de una manera
+determinada. El modelo de Skinner hizo una excelente labor
+explicando cómo los estímulos externos influyen en nuestros
+hábitos. Sin embargo, no ofrece ninguna explicación respecto a la manera en que nuestros pensamientos, sentimientos
+y creencias influyen en nuestro comportamiento. Nuestros
+estados internos, al igual que nuestras emociones y nuestro
+humor, son también muy importantes. En las últimas décadas,
+los científicos han comenzado a determinar la conexión entre
+nuestros pensamientos, sentimientos y comportamiento. Estas
+investigaciones recientes también se incluyen en estas páginas.
+
+Hábitos Atómicos 2.indd 19
+
+11/03/19 11:13 a.m.
+
+20 |
+
+HÁBITOS ATÓMICOS
+
+En suma, el marco de referencia que ofrezco es un modelo
+integrado por las teorías cognitiva y conductista. Me parece que
+el mío es uno de los primeros modelos de conducta humana
+que, de manera acuciosa, da cuenta de la influencia tanto de los
+estímulos externos como de las emociones internas en nuestros
+hábitos. Quizá algunos de los términos que utilizo te resulten
+familiares, pero confío en que los detalles y las aplicaciones
+prácticas de mis Cuatro Leyes del Cambio de Conducta te
+ofrecerán una nueva manera de concebir tus hábitos.
+La conducta humana siempre está modificándose. De una
+situación a otra, de un momento a otro, de un segundo a otro.
+Pero este libro se trata justamente de aquello que no cambia.
+Es acerca de los fundamentos de la conducta humana. Los
+principios perdurables de los que dependemos año tras año.
+Las ideas fundamentales sobre las que cimentamos nuestros
+negocios, nuestra familia y nuestra vida.
+No existe una manera correcta de crear mejores hábitos, pero
+este libro describe la mejor manera que yo conozco. Se trata
+de un enfoque que resultará efectivo sin importar por dónde
+te decidas a empezar o qué es lo que pretendas cambiar. Las
+estrategias que incluí en este libro serán relevantes para cualquiera que esté buscando un sistema por pasos para mejorar sus
+metas relacionadas con la salud, el dinero, la productividad, las
+relaciones sociales o todas a la vez. Mientras el comportamiento
+humano esté involucrado, este libro puede servirte de guía.
+
+Hábitos Atómicos 2.indd 20
+
+11/03/19 11:13 a.m.
+
+
